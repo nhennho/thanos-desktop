@@ -8,7 +8,7 @@ ThanOS is a custom, high-performance Linux environment running on Android via Te
 
 ## 📸 System Showcase
 <p align="center">
-<img src="https://github.com/nhennho/thanos-desktop/main/screenshots/neofetch_purple.png" width="600" alt="ThanOS Neofetch Display">
+<img src="https://github.com/nhennho/thanos-desktop/tree/main/screenshots/neofetch_purple.png" width="600" alt="ThanOS Neofetch Display">
 </p>
 (Displaying the glorious thanos@titan prompt and custom purple logo)
 
