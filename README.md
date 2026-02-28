@@ -32,7 +32,7 @@ proot-distro restore /sdcard/Download/ThanOS_Full_Backup.tar.gz
 ```bash
 proot-distro login debian --user thanos
 ```
-## Copy script to start system
+## Copy script to start ThanOS
 ```bash
 git clone https://github.com/nhennho/thanos-desktop/
 cd thanos-desktop
@@ -44,7 +44,7 @@ chmod +x start_thanos.sh
 ```
 You can restart if pulseaudio is having problems. 
 # Download link
-Download the Infinity Gauntlet (System Backup) below
+Download the system backup below
 ```shell
 https://drive.google.com/file/d/1kexAoUM76MuqtT5N7SNISo9LsxEiIzt9/view?usp=drivesdk
 ```
