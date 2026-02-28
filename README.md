@@ -2,9 +2,11 @@
 ThanOS is a custom, high-performance Linux environment running on Android via Termux. This repository contains my personal configurations, scripts, and the soul of a Titan.
 
 ## ✨ Features
-🟣 Titan's Wrath: Thanos will humiliate you every time you type a command incorrectly, instead of the boring "command-not-found".
-🧤 Custom Neofetch: The Debian logo is replaced with the Infinity Gauntlet, and all system information is themed in royal purple.
-🎨 UI & Icon System (WIP): The custom ThanOS theme is currently under development to ensure perfection.
+### 🟣 Titan's Wrath: Thanos will humiliate you every time you type a command incorrectly, instead of the boring "command-not-found".
+
+### 🧤 Custom Neofetch: The Debian logo is replaced with the Infinity Gauntlet, and all system information is themed in royal purple.
+
+### 🎨 UI & Icon System (WIP): The custom ThanOS theme is currently under development to ensure perfection.
 
 ## 📸 System Showcase
 <p align="center">
