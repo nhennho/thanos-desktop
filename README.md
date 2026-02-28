@@ -25,6 +25,9 @@ proot-distro login debian
 ```
 ## Copy script to start ThanOS
 ```bash
+git clone https://github.com/nhennho/thanos-desktop/
+cd thanos-desktop
+```
 start_thanos.sh
 ```shell
 chmod +x start_thanos.sh
