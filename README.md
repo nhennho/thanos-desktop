@@ -21,7 +21,9 @@ pkg install git wget pulseaudio proot proot-distro termux-x11 termux-api -y
  Install ThanOS
 ```bash
 proot-distro restore /sdcard/Download/ThanOS_Full_Backup.tar.gz
-# login ThanOS
+```
+ Login ThanOS if you want
+```bash
 proot-distro login debian
 ```
 ## Copy script to start ThanOS
