@@ -30,7 +30,7 @@ proot-distro restore /sdcard/Download/ThanOS_Full_Backup.tar.gz
 
  Login ThanOS if you want
 ```bash
-proot-distro login debian
+proot-distro login debian --user thanos
 ```
 ## Copy script to start system
 ```bash
