@@ -17,6 +17,7 @@ ThanOS is a custom, high-performance Linux environment running on Android via Te
 ```bash
 pkg update && pkg upgrade -y
 pkg install git wget pulseaudio proot proot-distro termux-x11 termux-api -y
+```
  Install ThanOS
 ```bash
 proot-distro restore /sdcard/Download/ThanOS_Full_Backup.tar.gz
