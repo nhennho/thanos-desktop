@@ -6,7 +6,7 @@ ThanOS is a custom, high-performance Linux environment running on Android via Te
 
 ### 🧤 Custom Neofetch: The Debian logo is replaced with the Infinity Gauntlet, and all system information is themed in royal purple.
 
-### 🎨 UI & Icon System (WIP): The custom ThanOS theme is currently under development to ensure perfection.
+### 🎨 UI & Icon System: The custom ThanOS theme is currently under development to ensure perfection. 
 
 ## 📸 System Showcase
 <p align="center">
