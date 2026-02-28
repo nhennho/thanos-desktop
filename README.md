@@ -35,4 +35,9 @@ start_thanos.sh
 ```shell
 chmod +x start_thanos.sh
 ./start_thanos.sh
- 
+```
+# Download link
+I couldn't upload the release tag because it was too large
+```shell
+https://drive.google.com/file/d/1kexAoUM76MuqtT5N7SNISo9LsxEiIzt9/view?usp=drivesdk
+```
