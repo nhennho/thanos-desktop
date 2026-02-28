@@ -10,9 +10,8 @@ ThanOS is a custom, high-performance Linux environment running on Android via Te
 ​Tip: You can temporarily switch to Papirus Icons for a sleek, compatible look while the Titan icons are being forged.
 
 ## 📸 System Showcase
-<p align="center">
-<img src="https://github.com/nhennho/thanos-desktop/tree/main/screenshots/neofetch_purple.png" width="600" alt="ThanOS Neofetch Display">
-</p>
+![ThanOS Neofetch Display](https://raw.githubusercontent.com/nhennho/Thanos-Termux-Config/main/screenshots/neofetch_purple.png)
+
 (Displaying the glorious thanos@titan prompt and custom purple logo)
 
 ## Necessary applications
