@@ -13,8 +13,7 @@ ThanOS is a custom, high-performance Linux environment running on Android via Te
 (Displaying the glorious thanos@titan prompt and custom purple logo)
 
 ## Necessary applications
- Termux("F-Droid version" or "Github version")
- Termux:X11
+ Termux("F-Droid version" or "Github version") and Termux:X11
 ## 🚀 Installation & Usage
  Dependencies for Termux
 ```bash
