@@ -32,6 +32,7 @@ proot-distro restore /sdcard/Download/ThanOS_Full_Backup.tar.gz
 ```bash
 proot-distro login debian --user thanos
 ```
+ Password for thanos: 111111
 ## Copy script to start ThanOS
 ```bash
 git clone https://github.com/nhennho/thanos-desktop/
